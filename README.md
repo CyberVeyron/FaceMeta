@@ -27,7 +27,7 @@ Built for cybersecurity enthusiasts, researchers, and educational purposes.
 ## 💻 Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/FacrMeta.git
+https://github.com/CyberVeyron/FaceMeta.git
 ```
 
 ```bash
